@@ -70,8 +70,9 @@ Shows clear error messages for:
 1. **Clone the repository:**
 
    ```bash
-   git clone <YOUR_REPO_URL>
-   cd <PROJECT_DIRECTORY>
+   git clone git@github.com:mahetakaushik/Flex-car-task.git
+   cd Flex-car-task
+
    ```
 
 2. **Install dependencies:**
@@ -124,4 +125,4 @@ src/
 
 - Project is free of errors, warnings, and console debug logs.
 - Include this README and the original assignment file in the root directory.
-- Hosted in a public Git repository: `<YOUR_REPO_URL>`
+- Hosted in a public Git repository: `[https://github.com/mahetakaushik/Flex-car-task]`
