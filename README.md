@@ -111,18 +111,20 @@ npm run test:ci
 
 ## 📂 Project Structure
 
+```
 src/
-├─ components/ # Reusable UI components
-│ ├── **tests**/ # Component tests
-│ └── ui/ # UI components
-├─ data/ # Hardcoded vehicle data
-├─ pages/ # Page components (e.g., SearchPage)
-├─ lib/ # Utils functions and mock data
+├─ components/     # Reusable UI components
+│  ├── __tests__/  # Component tests
+│  └── ui/         # UI components
+├─ data/           # Hardcoded vehicle data
+├─ pages/          # Page components (e.g., SearchPage)
+├─ lib/            # Utils functions and mock data
 ├─ App.tsx
 └─ main.tsx
+```
 
 ## ✅ Submission Notes
 
 - Project is free of errors, warnings, and console debug logs.
 - Include this README and the original assignment file in the root directory.
-- Hosted in a public Git repository: `[https://github.com/mahetakaushik/Flex-car-task]`
+- Hosted in a public Git repository: [Flex Car Task](https://flex-car-task.vercel.app/)
